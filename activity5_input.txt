@@ -1,0 +1,5 @@
+test input 1
+test input 2
+go pirates
+purple
+gold

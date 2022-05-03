@@ -1,0 +1,6 @@
+10001	Smith	John	M	12-30-1981	Engineering
+12345 	Johnson	Emily	F	10-15-1975	CS
+11111	Wilson	Adams	M	1-10-1970	MIS
+22222	Wang	Elizabeth	F	5-20-1991	Mathematics
+34345	Baker	Keith	M	12-31-1985	English
+20001 McNeill Xavier M 04-25-2002 CS
